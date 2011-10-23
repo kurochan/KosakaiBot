@@ -1,0 +1,4 @@
+*.class
+twitter4j.properties
+*.jar
+
